@@ -44,3 +44,27 @@ BUILD/
 cmake_build/
 .mbedls*
 
+BUILD
+.mbed
+BLE_GattServer_CharacteristicUpdates/mbed-os
+BLE_GattServer_CharacteristicUpdates/mbed-os-ble-utils
+BLE_SecurityAndPrivacy/mbed-os
+BLE_SecurityAndPrivacy/mbed-os-ble-utils
+BLE_SupportedFeatures/mbed-os
+BLE_PeriodicAdvertising/mbed-os
+BLE_PeriodicAdvertising/mbed-os-ble-utils
+BLE_GattServer_ExperimentalServices/mbed-os
+BLE_GattServer_ExperimentalServices/mbed-os-experimental-ble-services
+BLE_GattServer_ExperimentalServices/mbed-os-ble-utils
+BLE_GattServer_CharacteristicWrite/mbed-os
+BLE_GattServer_CharacteristicWrite/mbed-os-ble-utils
+BLE_GattServer_AddService/mbed-os
+BLE_GattServer_AddService/mbed-os-ble-utils
+BLE_GattClient_CharacteristicUpdates/mbed-os
+BLE_GattClient_CharacteristicUpdates/mbed-os-ble-utils
+BLE_GattClient_CharacteristicWrite/mbed-os
+BLE_GattClient_CharacteristicWrite/mbed-os-ble-utils
+BLE_GAP/mbed-os
+BLE_GAP/mbed-os-ble-utils
+BLE_Advertising/mbed-os
+BLE_Advertising/mbed-os-ble-utils
